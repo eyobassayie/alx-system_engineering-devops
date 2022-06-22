@@ -1,2 +1,16 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+#!/bin/bash
+<<<<<<< HEAD
+ls
+=======
+ls
+ls
+=======
+#!/bin/bash
+>>>>>>> 160b5da0e9e092b8aa3133efb39f8e5ac4638f08
+=======
 #!/bin/bash
 ls
+>>>>>>> bf1a561b8f6fe2173619fb090c89c9e594884b71
+>>>>>>> c5844298b3c005f21753abaf0802dd6ca68d1a82
