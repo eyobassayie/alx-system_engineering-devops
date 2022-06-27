@@ -1,3 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "ALX"
+=======
+>>>>>>> 9837b7d9d61b00d01eff36bd2db2b1480f4517c6
 pwd
