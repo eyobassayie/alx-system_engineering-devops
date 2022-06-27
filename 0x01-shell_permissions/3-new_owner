@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chown betty hello
+=======
+sudo chown betty hello
+>>>>>>> 3ad52ba9d8210a61cf0073a13a4daa257a572033
